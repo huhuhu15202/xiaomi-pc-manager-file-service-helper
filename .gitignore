@@ -1,0 +1,6 @@
+*.log
+*.bak
+*.original
+*.codex-tmp
+Thumbs.db
+Desktop.ini
